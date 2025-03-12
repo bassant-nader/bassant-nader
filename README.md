@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+I’m not your average Data Scientist. 🚀 I’m the person who thrives on turning raw data into actionable insights, solving complex problems with creativity, and delivering solutions that don’t just meet expectations—they exceed them. ⭐ Whether it’s data cleaning and preparation, exploratory data analysis, building predictive models, or creating stunning data visualizations, I bring a mix of technical expertise, passion, and a touch of unconventional thinking to every project.<br><br>I specialize in:<br>📊 Data Cleaning & Preparation: Transforming messy, unstructured data into clean, analysis-ready datasets.<br><br>📈 Data Visualization: Crafting clear, impactful visuals that tell compelling stories and drive decision-making.<br><br>🤖 Machine Learning & Predictive Modelling: Building robust models that uncover patterns and predict future outcomes.<br><br>🌐 Web Scraping & Data Collection: Extracting valuable data from the web to fuel your analysis.<br><br>🎯 Business Alignment: Ensuring data-driven solutions align with your strategic goals and deliver measurable results.<br><br>I’m a collaborator at heart. ❤️ I don’t just deliver work; I work with you to ensure the end result feels like it was made just for you (because it was). From understanding your unique challenges to tailoring solutions that fit your needs, I’m here to make your data work for you.<br><br>Why Work With Me?<br>💡 Value-Driven Approach: I’m not just here to complete tasks—I’m here to add value. Whether it’s suggesting a fresh perspective, streamlining a process, or going the extra mile to ensure you’re thrilled with the results, I’m all in.<br><br>🧩 Problem-Solving Mindset: I thrive on tackling complex problems and finding innovative solutions that drive real impact.<br><br>🗣 Clear Communication: I break down technical jargon into simple, actionable insights so you can make informed decisions with confidence.<br><br>✅ Attention to Detail: From data accuracy to model performance, I ensure every aspect of my work is precise and reliable.<br><br>Let’s Create Something Amazing! 🚀<br>If you’re looking for a data scientist who’s not just skilled but genuinely invested in your success, let’s talk. Whether you need to uncover hidden insights, build predictive models, or create data-driven strategies, I’m here to help you bring your vision to life.<br><br>📩 Feel free to reach out—I’d love to discuss how I can contribute to your project’s success!
 
-<!--
-**bassant-nader/bassant-nader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bassant-nader) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:basantnaader@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bassant-nader&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bassant-nader&theme=monokai&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bassant-nader&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bassant-nader&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=bassant-nader&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=bassant-nader&icon=2&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
